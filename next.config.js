@@ -5,3 +5,4 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+alert(123);
