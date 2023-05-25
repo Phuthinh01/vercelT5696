@@ -3,6 +3,6 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
 }
-
-module.exports = nextConfig
 alert(123)
+module.exports = nextConfig
+
